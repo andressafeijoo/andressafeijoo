@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Andressa.
 
-- 🌱 Atualmente participando do Programa ONE - Oracle Next Education, em parceria com a Allura. 
-- 📫 Estudando HTML5, CSS3, JS e REACT.
+- 🌱 Atualmente participando do Programa ONE - Oracle Next Education, em parceria com a Allura
+- 📫 Estudando REACT
 
 <div>
   <a href="https://github.com/andressafeijoo">
