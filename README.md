@@ -1,4 +1,4 @@
-### Olá! Eu sou a Andressa.
+### Olá! Eu sou a Andressa :)
 <h4>
 🌱 Atualmente participando do Programa ONE - Oracle Next Education, em parceria com a Allura
   <br>
